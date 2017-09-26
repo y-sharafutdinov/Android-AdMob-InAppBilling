@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AdMob+InAppBilling</string>
+    <string name="content_of_the_app">Content of the App.</string>
+    <string name="disable_ads">Disable ads</string>
+    <string name="consume_purchase">Consume Purchase</string>
+</resources>
